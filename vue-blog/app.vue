@@ -1,5 +1,8 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <Navbar />
+  </div>
+  <div>
+    <BlogPostList />
   </div>
 </template>
